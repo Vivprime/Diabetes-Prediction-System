@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+    <style>
+
+    body{
+        background-image:url("{% static 'DiabetesPrediction/images/imggg.jpg'%}");
+
+            background-size:cover;
+            background-attachment:fixed;
+            background-repeat:no-repeat;
+        }
+
+    </style>
+</head>
+<body>
+   <div align = 'center'>
+       <h1>
+           DIABETES PREDICTION SYSTEM
+       </h1>
+       <form action = "predict">
+           <input type = "submit" value="CLICK HERE FOR THE CHECKUP!">
+
+       </form>
+   </div>
+</body>
+</html>
