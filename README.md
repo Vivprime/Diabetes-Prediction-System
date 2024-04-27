@@ -1,5 +1,5 @@
 # Diabetes-Prediction-System
-
+#MERISKILL INTERNSHIP TASK:
 The Diabetes Prediction System is a web-based application that predicts the likelihood of an individual having diabetes based on various health-related features. The system utilizes a machine learning model trained on historical data to provide predictions for users.
 
 Features
