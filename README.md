@@ -20,8 +20,17 @@ Usage
 Open the application in your web browser.
 Fill in the required health-related information in the form.
 Click the "Submit" button to get the prediction result.
+
+
+
 View the prediction result on the page.
 
 
 data has been visualized and analysed using pandas, matplotlib pyplot, seaborn, Scikit learn.
 and imported to the django project for the diabetes prediction system!
+
+
+![jupyter2](https://github.com/Vivprime/Diabetes-Prediction-System/assets/121534834/a902e1f6-43d4-45a3-b29a-b17e73791cbf)
+![jupter1](https://github.com/Vivprime/Diabetes-Prediction-System/assets/121534834/1ddc29eb-3d4b-4852-b9f0-547bbc327238)
+
+
